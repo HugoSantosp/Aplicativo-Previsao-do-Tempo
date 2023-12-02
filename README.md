@@ -5,6 +5,8 @@ Este Aplicativo funciona usando duas APIs uma que descobre o a sua região, cida
 Atraves essa descoberta da sua geolocalização é consumido outra API HG Brasil Weather que me da possibilidade de extrair informações sobre o clima usando a cidade e a UF do estado sendo digita pelo usuario ou via geolocalização (quando acionado).
 Este é apenas aprimeira versão do aplicativo.
 
+Exite um arquivo compilado do aplicativo, apenas estraia no seu computador e execute o programa para testar.
+
 ![image](https://github.com/HugoSantosp/Aplicativo-Previsao-do-Tempo/assets/32572028/0e6453df-cb7c-45a6-8c6e-8d9585325eff)
 
 Nesta Imagem Foi consumida as duas APIs tanto a HG BRASIL IPGEO e HG Brasil Weather
