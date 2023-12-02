@@ -1,0 +1,34 @@
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo Previsão do Tempo.csproj.AssemblyReference.cache
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo_Previsão_do_Tempo.Form1.resources
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo_Previsão_do_Tempo.Properties.Resources.resources
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo Previsão do Tempo.csproj.GenerateResource.cache
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo Previsão do Tempo.csproj.CoreCompileInputs.cache
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Aplicativo Previsão do Tempo.exe.config
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Aplicativo Previsão do Tempo.exe
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Aplicativo Previsão do Tempo.pdb
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Newtonsoft.Json.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Newtonsoft.Json.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo Previsão do Tempo.csproj.CopyComplete
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo Previsão do Tempo.exe
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\obj\Debug\Aplicativo Previsão do Tempo.pdb
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Aspose.Imaging.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Buffers.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Drawing.Common.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Memory.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Security.AccessControl.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Security.Permissions.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Security.Principal.Windows.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Aspose.Imaging.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Buffers.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Memory.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Aspose.SVG.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo Previsão do Tempo\bin\Debug\Aspose.SVG.xml
